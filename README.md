@@ -12,13 +12,13 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-## **Software – Quartus prime**
+**Software – Quartus prime**
 
-## **Theory**
+ **Theory**
+ 
+**Logic Diagram**
 
-## **Logic Diagram**
-
-## **Procedure**
+ **Procedure**
 
 1.	Type the program in Quartus software.
 
@@ -50,15 +50,14 @@ Developed by:S.HARIKA
 RegisterNumber:24002063
 
 
-## **RTL realization**
-
+**RTL realization**
 ## **Output:**
+
 ### ![booleanfuction 1](https://github.com/user-attachments/assets/5ce71298-2b51-4bfa-9970-e122ede77ea4)
 
 ### ![booleanfunction2](https://github.com/user-attachments/assets/02bcd197-1148-4255-89c7-96063fef7283)
 
-## **RTL**
-
+**RTL**
 ## **Timing Diagram**
 ![booleanfunction wf](https://github.com/user-attachments/assets/64605eb1-a8c6-4ec1-ae0f-a624df5016cd)
 
